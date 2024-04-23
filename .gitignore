@@ -9,3 +9,6 @@ octave-workspace
 # Other Ignores (adjust as needed)
 .DS_Store  # macOS-specific desktop files
 Thumbs.db  # Windows-specific thumbnail cache
+
+# Ignore directory
+./revopoint_scan/*
