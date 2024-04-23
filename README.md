@@ -1,6 +1,7 @@
 # 3Dscanner2Brainstorm
 Contains routines to bring 3d scanner information into brainstorm.
 The main live script: Revopoint_to_Brainstorm__EEG_Localization_Procedure
+![revopoint image](./fig.png)
 
 ## Description
 Given the output of a Revopoint structured-light 3D scan, this procedure outlines the steps in localizing the EEG channels, HPI coils, fiducials, and extra head points and then importing this channel information and the rendered head surface mesh into Brainstorm.
