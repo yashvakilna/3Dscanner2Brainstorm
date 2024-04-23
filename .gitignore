@@ -1,0 +1,11 @@
+# MATLAB-specific ignores
+*.asv
+*.m~
+*.mex*
+slprj/
+octave-workspace
+.autosave
+
+# Other Ignores (adjust as needed)
+.DS_Store  # macOS-specific desktop files
+Thumbs.db  # Windows-specific thumbnail cache
